@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291977155891",
+    "project_id": "kibarua-ed33b",
+    "storage_bucket": "kibarua-ed33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291977155891:android:617af6b34c3e227d4d1a46",
+        "android_client_info": {
+          "package_name": "com.example.kib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291977155891-hrsi31e6qi0b0edmobth2lpoqmijo7gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kib",
+            "certificate_hash": "b4d7e8fd5bb4780e5cbc81a8f5ca0e65f172eebf"
+          }
+        },
+        {
+          "client_id": "291977155891-36hvs8crbktssh1k2k1ijqu9i3baj6cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoz0Sy7OomgKNOb6rBEFK7ZQTMZWKCIQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291977155891-36hvs8crbktssh1k2k1ijqu9i3baj6cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
